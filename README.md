@@ -1,3 +1,6 @@
+![Aura instant cast proc](Aura_Example.gif)
+Solar Flare Mod
+
 # farever-mods
 
 Mods for Farever, built on the [HLX Modding Framework](https://hlx-framework.github.io/).  
